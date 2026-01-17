@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! 👋 I'm Gizem Nur Soylu</h1>
-<h3 align="center">💻 Senior Expert Fullstack SAP BTP Developer</h3>
+<h3 align="center">💻 SAP BTP Technical Architect | SAP Developer</h3>
 <p align="center">🗯️ Turning bugs into features since forever.</p>
 
 ---
